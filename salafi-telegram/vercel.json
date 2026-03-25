@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/verset",
+      "schedule": "0 5 * * *"
+    },
+    {
+      "path": "/api/cron/fatawa",
+      "schedule": "0 16 * * *"
+    }
+  ]
+}
